@@ -1,16 +1,16 @@
 # TRACE-RESIST
-Repository for the Marie Skłodowska-Curie Postdoctoral Fellowship proposal **TRACE-RESIST: Source-resolved surveillance of antimicrobial resistance**.
+Repository for antimicrobial resistance and microbial source tracking research.
 
 ## Purpose
-This repository will host analytical workflows, documentation, and example datasets produced during the TRACE-RESIST project. All outputs will follow **FAIR principles** (Findable, Accessible, Interoperable, Reusable) in line with Horizon Europe open science requirements.  
+This repository hosts analytical workflows, documentation, and datasets for projects related to antimicrobial resistance surveillance and microbial source tracking in environmental and water systems. All outputs follow **FAIR principles** (Findable, Accessible, Interoperable, Reusable).
 
 ## Open science commitment
-- Code and workflows will be released under an open-source license.  
-- Sequencing data will be deposited in appropriate public repositories (e.g., ENA) with metadata.  
-- Preprints will be shared on open platforms (e.g., bioRxiv) to ensure early access and transparency.  
-- Reproducibility will be supported through version control and containerisation.  
+- Code and workflows are released under open-source licenses.  
+- Sequencing data are deposited in appropriate public repositories (e.g., ENA) with metadata.  
+- Preprints are shared on open platforms (e.g., bioRxiv) to ensure early access and transparency.  
+- Reproducibility is supported through version control and containerisation.  
 
 ## Contact
 **Dr Tristan Nolan**  
-Postdoctoral Fellow (proposed)  
-University of Barcelona – Health-Related Water Microbiology (MARS) Group  
+Postdoctoral Research Fellow  
+University of Queensland 
