@@ -13,4 +13,4 @@ This repository hosts analytical workflows, documentation, and datasets for proj
 ## Contact
 **Dr Tristan Nolan**  
 Postdoctoral Research Fellow  
-University of Queensland 
+Queensland University of Technology
